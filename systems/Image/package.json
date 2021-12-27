@@ -1,0 +1,9 @@
+{
+  "name": "@mf-test/image",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack --mode production",
+    "serve": "serve dist -p 3004",
+    "clean": "rm -rf dist"
+  }
+}

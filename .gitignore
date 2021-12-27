@@ -1,0 +1,16 @@
+.idea/
+coverage/
+dist/
+yarn-error.log
+.DS_Store
+electron/index.js
+node_modules
+.next
+out
+.env
+.envrc
+*.log
+.terraform
+.vscode
+.env.local
+report.*.json
